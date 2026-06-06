@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 Hi, I'm Yash Gupta 👋<br><br>I'm a BCA student, Full Stack Web Developer, and Founder of VSR Tech.  <br>I love building modern websites, web applications, AI-powered tools, and real-world digital products.<br><br>🚀 About Me<br><br>- 🎓 BCA Student at JECRC University, Jaipur<br>- 💻 Founder of VSR Tech<br>- 🌐 Building websites, web apps, and startup MVPs<br>- 🤖 Interested in AI, automation, and modern UI/UX<br>- 🧠 Currently learning C++, DSA, backend development, and real-world software engineering<br>- 🎯 Goal: To build impactful tech products and help businesses grow digitally<br><br>🛠 Tech Stack<br><br>HTML • CSS • JavaScript • React.js • Node.js • C++ • Java • Python • Git • GitHub • Supabase • Firebase • UI/UX Design<br><br>
 
 ## 🌐 Socials:
